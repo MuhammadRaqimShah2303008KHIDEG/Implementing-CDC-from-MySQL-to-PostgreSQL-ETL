@@ -1,0 +1,8 @@
+# PyFlink - Apache Flink Python API
+apache-flink==1.19.0
+apache_flink_libraries==1.19.0
+# PostgreSQL adapter for Python
+psycopg2-binary==2.9.9
+
+# Optional: For better logging and debugging
+python-dotenv==1.0.0
